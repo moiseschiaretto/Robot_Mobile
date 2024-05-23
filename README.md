@@ -50,7 +50,10 @@ npm --version
 
 ```
 
-** Habilitar as "features" adicionais do Node.js que vem por padrão desabilitada**
+<img width="201" alt="06_Versao_Nodes_NPM" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/05b661f6-f664-48e0-a6cc-3260039cc781">
+
+
+**Habilitar as "features" adicionais do Node.js que vem por padrão desabilitada**
 
 2.4 Abrir o CMD, ou seja, o Prompt de Comando como "Administrador"
 
@@ -61,6 +64,10 @@ npm --version
 corepack enable
 
 ```
+
+<img width="151" alt="07_corepack_enable" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/6620d4c3-ce89-486d-a2ac-9f680efb9b66">
+
+
 
 **Retornar a IDE VSCode**
 
@@ -74,11 +81,12 @@ yarn --version
 
 ```
 
+
 **IMPORTANTE**
 
 - Caso ocorrer erro ao digitar o comando "yarn --verson", seguir os comandos abaixo para resolver.
 
-- Retornar ao CMD, ou seja, o Prompt de Comando como "Administrador", digitar seguinte so comandos:
+- No "Terminal do VSCode", digitar seguinte so comandos:
 
 ```
 
@@ -88,7 +96,7 @@ yarn --version
 
 ```
 
-**Confirmar a instalação da "yarn", digitando a letra "Y".**
+**Caso necessário, confirmar a instalação da "yarn", digitando a letra "Y".**
 
 - Digitar novamente:
 
@@ -98,6 +106,10 @@ yarn --version
 
 
 ```
+
+
+<img width="503" alt="08_yarn" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ae672fdb-b7d7-4444-b423-ffbc64658220">
+
 
 
 **3. Instalar o JDK Development >> x64 MSI Installer**
@@ -155,8 +167,80 @@ https://developer.android.com/studio?hl=pt-br
 
 
 
+**7. Instalar o Appium**
 
-#EM CONSTRUÇÃO ...
+https://appium.io/docs/en/2.0
+
+
+<img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9d41d2da-8a27-40d1-a038-3fd037884053">
+
+
+7.1 Clicar em "Install Appium"
+
+7.2 Acessar a Pasta de seu Projeto no Terminal do VSCode
+
+7.3 Digitar os seguintes comandos no Terminal do VSCode
+
+```
+
+npm i appium
+
+```
+
+
+**8. Após a instalação do "Appium" realizar algumas validações**
+
+8.1 Dentro da pasta do projeto "Robot_Mobile" é gerada a pasta "node_modules".
+
+8.2 O arquivo "package.json" deverá conter após a instalação do "Appium"
+
+```
+
+"dependencies": {
+	"appium": "^2.5.4"
+}
+
+```
+
+8.3 Após a instalação do "Appium" validar o arquivo "package-lock.json"
+
+```
+
+"packages": {
+    "": {
+      "name": "robot_mobile",
+      "version": "1.0.0",
+      "license": "ISC",
+      "dependencies": {
+        "appium": "^2.5.4"
+      },
+
+```
+
+**Arquivo "package-lock.json"**
+
+```
+
+"node_modules/@appium/base-driver": {
+      "version": "9.6.0",
+      "resolved": "https://registry.npmjs.org/@appium/base-driver/-/base-driver-9.6.0.tgz",
+      "integrity": "sha512-8+pqWHQ4tbvtwOxNCtHa5m0SUwQIvAwHTVKq/YUbgDn18ep4nGhz5rlryvvqyNpXEgEOhbLInIRma1KIrYdX8Q==",
+      "dependencies": {
+        "@appium/support": "^4.2.5",
+        "@appium/types": "^0.17.0",
+
+```
+
+
+
+
+
+
+
+
+
+
+##EM CONSTRUÇÃO ...
 
 
 
