@@ -156,6 +156,7 @@ https://developer.android.com/studio?hl=pt-br
 
 
 
+#EM CONSTRUÇÃO ...
 
 
 
@@ -182,6 +183,11 @@ https://developer.android.com/studio?hl=pt-br
 
 
 ![03_Do_Not_Import_Settings](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0254d60a-52ff-4ce2-bb1a-c970f1188cf0)
+
+
+**Na tela "Help Improve Android Studio", clicar no botão "Send usage statistics to Google para a evolução da ferramenta."**
+
+**- Para enviar os dados analíticos para os desenvovedores da Google.**
 
 
 ![04_Send_usage](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/f9b2f5b5-63b8-43e6-90cf-110694262f14)
