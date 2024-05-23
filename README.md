@@ -6,9 +6,9 @@
 
 - Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Adroid e iOS.
 
-    - Exemplo 01: Exeecutar um cenário de testes em Android
+    - Exemplo 01: Executar um cenário de testes em Android
  
-    - Exemplo 02: Exeecutar um cenário de testes em iOS
+    - Exemplo 02: Executar um cenário de testes em iOS
 
 
 ## Estrutura do Projeto
