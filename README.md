@@ -84,15 +84,18 @@ yarn --version
 
 Set-ExecutionPolicy RemoteSigned -Scope Process
 
+yarn --version
+
+```
+
+**Confirmar a instalação da "yarn", digitando a letra "Y".**
+
+- Digitar novamente:
+
+```
 
 yarn --version
 
-Confirmar a instalação da "yarn", digitando a letra "Y".
-
-
-Digitar nocvamente:
-
-yarn --version
 
 ```
 
@@ -101,8 +104,49 @@ yarn --version
 
 https://www.oracle.com/br/java/technologies/downloads/
 
+<img width="175" alt="03_JDK" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/bc462d9d-516b-40cb-8eaf-c29c25c3a7c6">
 
 
+**4. Instalar o Android Studio**
+
+  **- A instalação e configuração do "Android Studio" está no final desta documentação com as telas passo a passo.**
+  
+
+  <img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0fe9fc76-f8fb-4ae0-80d1-a8df382b43fe">
+
+
+4.2. Realizar o download do "Android Studio"
+
+https://developer.android.com/studio?hl=pt-br
+
+4.3. Realiar a instalação do "Android Studio"
+
+4.1 Selecionar a opção "Android Studio"
+
+4.2 Selecionar a opção "Android Virtual Device"
+
+
+
+**5. Verificar as últimas versões do "Appium" antes de instalar**
+
+
+<img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8fa2e77d-68bb-4156-b3b8-d89efe30b64b">
+
+
+5.1 Pesquisar por "Appium"
+
+5.2 Clicar em "Appium", no resultado da pesquisar
+
+5.3 Clicar na Guia "Version"
+
+  **- Observar as versão, inclusive a versão 2.0.1**
+
+
+** 6. Appium >> Explore the Documentation**
+
+  - Utilizar para posíveis consultas.
+
+  https://appium.io/docs/en/2.0
 
 
 
