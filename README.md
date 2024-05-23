@@ -50,3 +50,60 @@ npm --version
 
 ```
 
+** Habilitar as "features" adicionais do Node.js que vem por padrão desabilitada**
+
+2.4 Abrir o CMD, ou seja, o Prompt de Comando como "Administrador"
+
+2.5 Digitar seguinte o comando
+
+```
+
+corepack enable
+
+```
+
+**Retornar a IDE VSCode**
+
+2.6 Acessar a Pasta de seu Projeto no Terminal do VSCode
+
+2.7 Digitar o seguinte comandos no Terminal do VSCode
+
+```
+
+yarn --version
+
+```
+
+**IMPORTANTE**
+
+- Caso ocorrer erro ao digitar o comando "yarn --verson", seguir os comandos abaixo para resolver.
+
+- REtornar ao CMD, ou seja, o Prompt de Comando como "Administrador", digitar seguinte so comandos:
+
+```
+
+Set-ExecutionPolicy RemoteSigned -Scope Process
+
+
+yarn --version
+
+Confirmar a instalação da "yarn", digitando a letra "Y".
+
+
+Digitar nocvamente:
+
+yarn --version
+
+```
+
+
+**3. Instalar o JDK Development >> x64 MSI Installer**
+
+https://www.oracle.com/br/java/technologies/downloads/
+
+
+
+
+
+
+
