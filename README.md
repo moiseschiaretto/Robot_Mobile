@@ -78,7 +78,7 @@ yarn --version
 
 - Caso ocorrer erro ao digitar o comando "yarn --verson", seguir os comandos abaixo para resolver.
 
-- REtornar ao CMD, ou seja, o Prompt de Comando como "Administrador", digitar seguinte so comandos:
+- Retornar ao CMD, ou seja, o Prompt de Comando como "Administrador", digitar seguinte so comandos:
 
 ```
 
@@ -107,12 +107,14 @@ https://www.oracle.com/br/java/technologies/downloads/
 <img width="175" alt="03_JDK" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/bc462d9d-516b-40cb-8eaf-c29c25c3a7c6">
 
 
+
+
 **4. Instalar o Android Studio**
 
-  **- A instalação e configuração do "Android Studio" está no final desta documentação com as telas passo a passo.**
+**- A instalação e configuração do "Android Studio" está no final desta documentação com as telas passo a passo.**
   
 
-  <img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0fe9fc76-f8fb-4ae0-80d1-a8df382b43fe">
+<img width="162" alt="04_Android_Studio_V2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ed2c099f-6914-42b0-b49d-3c5b46b03e82">
 
 
 4.2. Realizar o download do "Android Studio"
@@ -124,6 +126,7 @@ https://developer.android.com/studio?hl=pt-br
 4.1 Selecionar a opção "Android Studio"
 
 4.2 Selecionar a opção "Android Virtual Device"
+
 
 
 
@@ -142,12 +145,107 @@ https://developer.android.com/studio?hl=pt-br
   **- Observar as versão, inclusive a versão 2.0.1**
 
 
-** 6. Appium >> Explore the Documentation**
+
+
+**6. Appium >> Explore the Documentation**
 
   - Utilizar para posíveis consultas.
 
-  https://appium.io/docs/en/2.0
+  <img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0fe9fc76-f8fb-4ae0-80d1-a8df382b43fe">
 
+
+
+
+
+
+
+
+## Instalação e configuração do "Android Studio" passo a passo
+
+
+<img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/673d631e-545b-40df-8792-1e4aae42d4f0">
+  
+
+**Executar o arquivo de instalação do "Android Studio" e clicar nos botões "Next", conforme as imagens abaixo.**
+
+
+![00_Instalar_Adroid_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4081a8e0-77da-4ec5-adc5-b4be51b8138e)
+
+
+![01_Instalar_Adroid_Studio_Virtual_Device](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/d5789b2e-0b80-48c7-84fd-b6de95e0ed56)
+
+
+![02_Instalar_Completa](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/f95cf313-f99c-434e-b886-9868442767ed)
+
+
+**Na tela "Import Android Studio Settings", selecionar a opção "Do not import settings" e clicar em "OK"**
+
+
+![03_Do_Not_Import_Settings](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0254d60a-52ff-4ce2-bb1a-c970f1188cf0)
+
+
+![04_Send_usage](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/f9b2f5b5-63b8-43e6-90cf-110694262f14)
+
+
+![05_Configurar_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/746d5910-c8c0-4cb7-85e6-0c5709480bb2)
+
+
+
+**Na tela ""Install Type", selecionar a opção "Standard" e clicar no botão "OK"**
+
+
+![06_Configurar_Android_Studio_Standard](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8aef3059-0999-413b-8d49-2da6ea10d427)
+
+
+
+**Na tela "Verify Settings", selecionar a opção "Android SDK Plataform 34" e clicar no botão "Next"**
+
+
+![07_Android_SDK_Plataform_34](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/24e6d8bc-9a23-4a43-982e-06313da6aa33)
+
+
+**Na tela "License Agreement", segurar a tecla "CTRL", selecionar as opções "android-sdk-license" e "intel-android-extra-license"**
+
+**Selecionar a opção "Accept" e clicar no botão "Finish"**
+
+
+![08_Aceitar_Licenca](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3fad6679-9c53-42fa-ba4c-52b89be9d019)
+
+
+
+**Aguardar o "downloading of components" e clicar no botão "Finish"**
+
+
+![09_Downloading_Componentes](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/cca48366-707e-44b7-b725-ab9855a10b2c)
+
+
+![10_Downloading_Componentes](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/96cff278-2384-41dd-af09-9fc489060e23)
+
+
+
+**Na tela "Welcometo Android Studio", clicar na opção "More Actions" e selecionar a opção "Virtual Device Mnager"**
+
+
+![11_Configurando__MS_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/a2c6aaa3-ef89-4e9c-8943-12d49a14102c)
+
+
+**Na tela "Device Manager" clicar no botão "Play" (seta para direita), para inicializar o "Emulador Android Studio"**
+
+**IMPORTANTE: este "Emulador Android Studio" poderá demorar para inicializar dependendo das configurações de hardware de seu PC ou Notebook em uso.**
+
+
+![12_Configurando__MS_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4f121fa6-af0f-4a58-98af-effbdd19eb2d)
+
+
+
+**"Emulador Android Studio" inicializado e pronto para a utilização / navegação**
+
+
+![13_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6f05dae-c2a3-4125-8645-932205e4665b)
+
+
+
+![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c84380b1-fb1b-4355-9007-5d3485432762)
 
 
 
