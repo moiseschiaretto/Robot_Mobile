@@ -33,9 +33,11 @@ https://nodejs.org/en
 
 <img width="93" alt="02_Node_JS" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3021ee6c-d3d3-4663-85d9-692017dd7dd6">
 
+
 Node.js é um ambiente para execução de código em Javascript, para aplicação Web, empacota e interpretar o código.
 
 https://www.youtube.com/watch?v=vYekSMBCCiM
+
 
 **Validar se o Node.js foi instalado corretamente**
 
@@ -50,7 +52,8 @@ npm --version
 
 ```
 
-<img width="201" alt="06_Versao_Nodes_NPM" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/05b661f6-f664-48e0-a6cc-3260039cc781">
+<img width="377" alt="06_Versao_Nodes_NPM" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6e81f87-6362-4e35-b644-b5cac1439810">
+
 
 
 **Habilitar as "features" adicionais do Node.js que vem por padrão desabilitada**
@@ -65,7 +68,8 @@ corepack enable
 
 ```
 
-<img width="151" alt="07_corepack_enable" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/6620d4c3-ce89-486d-a2ac-9f680efb9b66">
+<img width="314" alt="07_corepack_enable" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/fff6811b-2931-4fc7-a3ab-87d69d7e05f4">
+
 
 
 
@@ -108,7 +112,8 @@ yarn --version
 ```
 
 
-<img width="503" alt="08_yarn" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ae672fdb-b7d7-4444-b423-ffbc64658220">
+<img width="804" alt="08_yarn" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/da37e60f-63e1-4175-9da0-2ebc2856edd0">
+
 
 
 
@@ -241,6 +246,8 @@ npm i appium
 
 
 ##EM CONSTRUÇÃO ...
+
+
 
 
 
