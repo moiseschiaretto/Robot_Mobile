@@ -13,7 +13,10 @@
 
 ## Estrutura do Projeto
 
-**Em construção ...**
+
+
+## Em construção ...
+
 
 
 ## Configuração do Ambiente de Trabalho com Mobile
@@ -237,10 +240,167 @@ npm i appium
 ```
 
 
+**9. Executar o Appium**
+
+- Digitar os seguintes comandos no Terminal do VSCode
+
+```
+
+npx appium
+
+```
+
+
+**10. Desligar o Servidor do Appium**
+
+- Acessar o Terminal do VSCode
+
+
+```
+
+Teclar CTRL + "C"
+
+Teclar "S" (Sim) para confirmar.
+
+```
+
+<img width="693" alt="09_Executar_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/db0edc72-413e-4ce5-b0e7-1d413915b2fc">
+
+
+
+**11. Instalar o pacote "Appium-Doctor"**
+
+- É um pacote em Node.js que realiza um diagnóstico no computador para validar se o seu Sistema Operacional está preparado para trabalhar com o "Appium".
+
+```
+
+npm i appium-doctor
+
+```
+
+
+**12. Executando o "Appium-Doctor" para o diagnóstico para Android**
+
+**- O "Appium-Doctor" realiza o diagnóstico no computador, validar todas as instalações de pacotes (dependências) instaladas até este momento.**
+
+```
+
+npx appium-doctor --android
+
+```
+
+<img width="960" alt="04_Diagnostico_Doctor_Configurar_SDK" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/5c9f7364-7b4c-4cd8-98e5-e55f31e08eb8">
+
+
+
+**13. As validações do diagnóstico do 'Doctor"**
+
+**- Não encontrou as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME".**
+
+13.1 Configurando o caminho do Java SDK (JAVA_HOME) no sistema operacional Windows.
+
+13.2 Editar "Variáveis de Ambiente"
+
+13.3 No Frame "Variáveis do Sistema" clicar no botão Novo
+
+13.4 Preencher os campos abaixo e clicar no botão OK
+```
+
+Nome da variável: JAVA_HOME
+
+Valor da variável: C:\Program Files\Java\jdk-22
+
+```
+
+13.5 No Frame "Variáveis do Sistema" clicar no botão Novo
+
+13.6 Preencher os campos abaixo e clicar no botão OK
+
+```
+
+Nome da variável: ANDROID_HOME
+
+Valor da variável: C:\Users\moise\AppData\Local\Android\Sdk
+
+```
+
+13.7 Selecionar a "variável de ambiente com o nome igual a PATH"
+
+13.8 Clicar nos botões "Editar" e após botão "Novo"
+
+```
+
+13.9 Digitar %JAVA_HOME%\bin
+
+13.10 Clicar no botão "Novo"
+
+13.11 Digitar %ANDROID_HOME%\platform-tools
+
+13.12 Clicar nos botões "OK" e "OK"
+
+
+```
+
+13.13 Reiniciar a IDE VSCode para atualizações das variáveis de ambiente
 
 
 
 
+**14. Executando o "Appium-Doctor" para realizar um "NOVO Diagnóstico"**
+
+**- O "Appium-Doctor" realiza o diagnóstico no computador, validar todas as instalações de pacotes (dependências) instaladas até este momento.**
+
+```
+
+npx appium-doctor --android
+
+```
+
+<img width="960" alt="05_Diagnostico_Doctor_Configurar_SDK_JAVA_OK" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/dc8bef4c-cf95-4a2c-bd2b-5cb6c2784b24">
+
+
+
+15. Appium Inspector
+
+- Acessar o seguinte link no browser.
+
+- A representação da página a nível de código é em XML (no Mobile), na Web é em HTML.
+
+```
+
+https://github.com/appium/appium-inspector
+
+```
+
+15.1 Rolar a tela do browser para baixo.
+
+15.2 Clicar à direita da página em "Realeses".
+
+15.3 Clicar em "Latest" ao lado do "Número da "Realese".
+
+15.4 Selecionar para download "Appium-Inspector for Windows".
+
+```
+
+Appium-Inspector-2024.3.4-win.exe
+
+```
+
+
+
+**15.5 Acessar o Appium**
+
+
+**- Caminho do arquivo executável no Sistema Operacional Windows**
+
+```
+
+C:\Users\moise\AppData\Local\Programs\Appium Inspector
+
+```
+
+
+<img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/541031b0-28ac-4ee1-a13b-dcd609f6dd5a">
 
 
 
