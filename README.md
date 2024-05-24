@@ -160,14 +160,14 @@ https://developer.android.com/studio?hl=pt-br
 
 5.3 Clicar na Guia "Version"
 
-  **- Observar as versão, inclusive a versão 2.0.1**
+  **- Observar as versões do Appium, inclusive a versão 2.0.1**
 
 
 
 
 **6. Appium >> Explore the Documentation**
 
-- Utilizar para posíveis consultas, campo **"Search"**
+- Utilizar para possíveis pesquisas do "Appium, campo **"Search"**
 
 https://appium.io/docs/en/2.0
 
