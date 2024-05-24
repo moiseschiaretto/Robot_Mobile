@@ -412,7 +412,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 - No aplicativo **"Appium"** informar em **"Capability Builder"**
 
-- O **"arquivo "test.apk"** é somente para um teste / exemplo com o emulador **"Android Studio"** para realizar o teste de conexão com o **"Appium".**
+- O **"arquivo "teste.apk"** é somente para um teste / exemplo com o emulador **"Android Studio"** para realizar o teste de conexão com o **"Appium".**
 
 - A extensão **.apk"** é exclusiva para os testes com o o emulador **"Android Studio".**
 
