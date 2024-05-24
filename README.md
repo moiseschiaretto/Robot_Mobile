@@ -583,14 +583,16 @@ npx appium
 ## Instalar o Robot Framework no projeto "Robot_Mobile" no VSCode
 
 
-**1.** Instalar o Python
+**1.** Instalar o Python usando o arquivo executável de instalação
 
 https://www.python.org/downloads/
 
 ![01_Python](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/93200bfd-9747-43d9-9fb9-53a825227d55)
 
 
-**2.** No terminal do "VSCode" digitar os comandos abaixo.
+**2.** Fechar o terminal "CMD" o "Prompt de Comando".
+
+**3.** No terminal do "Prompt de Comando" digitar os comandos abaixo.
 
 ```
 
@@ -601,24 +603,29 @@ pip -- version
 
 ```
 
+<img width="358" alt="03_Pos_Instalacao_Python" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/21e2fad1-52f1-4df8-a57f-126f090a4e8d">
 
-**3.** Instalação do Robot FrameWork
+
+
+**4.** Instalação do Robot FrameWork
 
 Site: https://robotframework.org
 
 ![01_Logo_Robot_Frame_Work](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4a200ef4-33b3-4efe-82bb-971173514db6)
 
 
-**4.** No terminal do "VSCode" digitar os comandos abaixo.
+**5.** No terminal do "Prompt de Comando" digitar os comandos abaixo.
+
+```
+
+pip install robotframework
+
+robot --version
 
 ```
 
 
-
-
-```
-
-
+<img width="457" alt="04_Instalacao_Robot" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/a4f4cb1c-ed33-41b3-b69c-b80bddfe74e7">
 
 
 
