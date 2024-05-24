@@ -406,9 +406,9 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 
 
-## Testando a conexão do "Appium" com o emulador "Android Studio"
+## Configurando um teste de conexão do "Appium" com o emulador "Android Studio"
 
-- Testando a conexão do **"Appium"** com o emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
+- Configurando a conexão do **"Appium"** com o emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
 
 - No aplicativo **"Appium"** informar em **"Capability Builder"**
 
@@ -442,9 +442,50 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 <img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3f3e05cc-ed24-4759-a017-6ae0839de0ae">
 
 
+## Executando o teste de conexão do "Appium" com o emulador "Android Studio"
+
+**1.** Acessar o emulador "Android Studio".
+
+**2.** Acessar o "Appium" com as confgurações do **"Capability Builder".**
+
+**3.** No terminal do "VSCode" digitar os comandos abaixo.
+
+```
+
+adb devices
+
+npx appium
+
+```
+
+
+**4.** O comando **"adb devices"**
+
+- Este comando **"adb devices"** vem junto com o **"SDK do Android Studio",** ao executar este comando ele exibe que o dispositivo virtual que é o emulador **"5554"** está dispoível para uso, irá lista o dispositivo disponível para uso, no caso do **"Android Studio".**
+
+
+<img width="293" alt="09_Emulator_5554_Pronto_para_uso" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e381525c-5485-4289-bfb0-12f5822d265f">
 
 
 
+**5.** O comando **"npx appium"**
+
+- Este comando **"npx appium"** irá inicializar o servido do **"Appium".**
+
+
+<img width="775" alt="10_Iniciar_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0be7fb2c-c3b3-4abb-89b3-0d35ee4bd257">
+
+
+
+**6.** Acessar o "Appium" já com o teste configurado e clicar no botão **"Star Session".**
+
+
+<img width="680" alt="08_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e90465ce-c6ce-4f1d-ad0a-669f3c5ec6f3">
+
+
+**OBSERVAÇÃO**
+
+- Ocorrerá um **erro** já previsto ...
 
 
 
