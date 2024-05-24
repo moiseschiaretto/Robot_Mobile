@@ -277,14 +277,28 @@ npx appium-doctor --android
 
 13.3 No Frame "Variáveis do Sistema" clicar no botão Novo
 
+
+<img width="204" alt="13_Variavel_Ambiente_SO_Windows" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ed002081-493b-4c0f-ac71-227206490c95">
+
+
+<img width="294" alt="14_Variavel_Ambiente_SO_Windows" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/5aa88fde-19e2-461e-8270-06c847d192f5">
+
+
 13.4 Preencher os campos abaixo e clicar no botão OK
+
 ```
 
 Nome da variável: JAVA_HOME
 
 Valor da variável: C:\Program Files\Java\jdk-22
 
+
 ```
+
+
+<img width="311" alt="15_Variavel_Ambiente_SO_Windows" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9f396aae-308a-40aa-8071-f3ead6a1c142">
+
+
 
 13.5 No Frame "Variáveis do Sistema" clicar no botão Novo
 
@@ -298,9 +312,14 @@ Valor da variável: C:\Users\moise\AppData\Local\Android\Sdk
 
 ```
 
+<img width="311" alt="16_Variavel_Ambiente_SO_Windows" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/bcd31fe8-34f1-41a5-ab79-2d8bec71b0fc">
+
+
+
 13.7 Selecionar a "variável de ambiente com o nome igual a PATH"
 
 13.8 Clicar nos botões "Editar" e após botão "Novo"
+
 
 ```
 
@@ -314,6 +333,10 @@ Valor da variável: C:\Users\moise\AppData\Local\Android\Sdk
 
 
 ```
+
+
+<img width="251" alt="17_Variavel_Ambiente_SO_Windows" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/6a81afab-2857-4ab2-b4c2-74ed9e096fb6">
+
 
 13.13 Reiniciar a IDE VSCode para atualizações das variáveis de ambiente
 
