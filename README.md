@@ -202,42 +202,16 @@ npm i appium
 
 8.2 O arquivo "package.json" deverá conter após a instalação do "Appium"
 
-```
 
-"dependencies": {
-	"appium": "^2.5.4"
-}
+<img width="552" alt="11_Instalacao_Package_json" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/fb49d170-0a33-43b6-9a99-ac89cf0f4497">
 
-```
+
 
 8.3 Após a instalação do "Appium" validar o arquivo "package-lock.json"
 
-```
 
-"packages": {
-    "": {
-      "name": "robot_mobile",
-      "version": "1.0.0",
-      "license": "ISC",
-      "dependencies": {
-        "appium": "^2.5.4"
-      },
+<img width="552" alt="12_Instalacao_Package_lock_json" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/404f1de7-3232-465b-8f90-701c0d12b51a">
 
-```
-
-**Arquivo "package-lock.json"**
-
-```
-
-"node_modules/@appium/base-driver": {
-      "version": "9.6.0",
-      "resolved": "https://registry.npmjs.org/@appium/base-driver/-/base-driver-9.6.0.tgz",
-      "integrity": "sha512-8+pqWHQ4tbvtwOxNCtHa5m0SUwQIvAwHTVKq/YUbgDn18ep4nGhz5rlryvvqyNpXEgEOhbLInIRma1KIrYdX8Q==",
-      "dependencies": {
-        "@appium/support": "^4.2.5",
-        "@appium/types": "^0.17.0",
-
-```
 
 
 **9. Executar o Appium**
