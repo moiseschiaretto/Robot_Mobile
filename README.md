@@ -418,7 +418,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 ```
 
-| plataformName   | text     | Android                                   |
+| platformName    | text     | Android                                   |
 | deviceName      | text     | Android Emulator                          |
 | automationName  | text     | UIAutomator2                              |
 | app             | filepath | C:\\Robot_Mobile\\appium-teste\\teste.apk |                
@@ -430,7 +430,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 ```
 
 {
-  "plataformName": "Android",
+  "platformName": "Android",
   "deviceName": "Android Emulator",
   "automationName": "UIAutomator2",
   "app": "C:\\Robot_Mobile\\appium-teste\\teste.apk"
@@ -439,7 +439,8 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 ```
 
 
-<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/aec9b428-e978-46bb-ac46-d9bdb2c3c37f">
+<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3f3e05cc-ed24-4759-a017-6ae0839de0ae">
+
 
 
 
