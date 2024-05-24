@@ -402,13 +402,13 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 
 
-##EM CONSTRUÇÃO ...
+# EM CONSTRUÇÃO ...
 
-##Configurar o Appium Inspector
+## Configurar o Appium Inspector
 
-##Testar a conexão do Appium Inspector com o Emulador Android Studio
+## Testar a conexão do Appium Inspector com o Emulador Android Studio
 
-##Instalar o Robot Framework
+## Instalar o Robot Framework
 
 
 
