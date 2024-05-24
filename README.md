@@ -135,15 +135,15 @@ https://www.oracle.com/br/java/technologies/downloads/
 <img width="162" alt="04_Android_Studio_V2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ed2c099f-6914-42b0-b49d-3c5b46b03e82">
 
 
-4.2. Realizar o download do "Android Studio"
+4.1. Realizar o download do "Android Studio"
 
 https://developer.android.com/studio?hl=pt-br
 
-4.3. Realiar a instalação do "Android Studio"
+4.2. Realizar a instalação do "Android Studio"
 
-4.1 Selecionar a opção "Android Studio"
+4.3 Selecionar a opção "Android Studio"
 
-4.2 Selecionar a opção "Android Virtual Device"
+4.4 Selecionar a opção "Android Virtual Device"
 
 
 
@@ -169,7 +169,7 @@ https://developer.android.com/studio?hl=pt-br
 
   - Utilizar para posíveis consultas.
 
-  <img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0fe9fc76-f8fb-4ae0-80d1-a8df382b43fe">
+  https://appium.io/docs/en/2.0
 
 
 
