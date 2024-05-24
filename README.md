@@ -406,6 +406,44 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 
 
+## Testando a conexão do "Appium" com o Emulador "Android Studio"
+
+- Testando a conexão do **"Appium"** com o Emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
+
+- No aplicativo **"Appium"** informar em **"Capability Builder"**
+
+
+```
+
+| plataformName   | text  | Android           |
+| deviceName      | text  | Android Emulator  |
+| automationName  | text  | UIAutomator2      |
+
+```
+
+**JSON Represention**
+
+```
+
+{
+  "plataformName": "Android",
+  "deviceName": "Android Emulator",
+  "automationName": "UIAutomator2"
+}
+
+```
+
+<img width="543" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/45f74a47-40f7-4430-85f0-1b68a413a21b">
+
+
+
+
+
+
+
+
+
+
 
 # EM CONSTRUÇÃO ...
 
