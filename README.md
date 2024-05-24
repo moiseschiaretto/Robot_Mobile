@@ -514,7 +514,8 @@ npx appium driver install uiautomator2
 ```
 
 
-<img width="457" alt="12_Instalar_Driver_Appium_UIAutomator2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/419ca545-9098-4bd6-93d5-bd4f2a81c740">
+<img width="490" alt="12_Instalar_Driver_Appium_UIAutomator2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/04f81db8-3ae0-4806-b280-5af81561a72b">
+
 
 
 
