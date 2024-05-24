@@ -167,18 +167,25 @@ https://developer.android.com/studio?hl=pt-br
 
 **6. Appium >> Explore the Documentation**
 
-  - Utilizar para posíveis consultas.
+- Utilizar para posíveis consultas, campo **"Search"**
 
-  https://appium.io/docs/en/2.0
+https://appium.io/docs/en/2.0
+
+
+<img width="952" alt="18_Appium_Documentation" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/01be597b-2761-46ce-b888-4fd3726884a9">
 
 
 
 **7. Instalar o Appium**
 
-https://appium.io/docs/en/2.0
+
+https://appium.io/docs/en/2.0/quickstart/install
 
 
 <img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9d41d2da-8a27-40d1-a038-3fd037884053">
+
+
+<img width="940" alt="19_Appium_Install" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b7435e3c-b68f-44d9-a37b-932dbb226056">
 
 
 7.1 Clicar em "Install Appium"
