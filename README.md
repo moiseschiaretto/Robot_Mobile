@@ -488,7 +488,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 **Na tela "Device Manager" clicar no botão "Play" (seta para direita), para inicializar o "Emulador Android Studio"**
 
-**IMPORTANTE: este "Emulador Android Studio" poderá demorar para inicializar dependendo das configurações de hardware de seu PC (Desktop ou Notebook) em uso.**
+**IMPORTANTE: este "Emulador Android Studio" poderá demorar para inicializar dependendo das configurações de hardware (microprocessador e memória RAM) de seu PC (Desktop ou Notebook) em uso.**
 
 
 ![12_Configurando__MS_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4f121fa6-af0f-4a58-98af-effbdd19eb2d)
