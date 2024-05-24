@@ -15,7 +15,7 @@
 
 
 
-# Em construção ...
+# EM CONSTRUÇÃO ...
 
 
 
@@ -406,18 +406,22 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 
 
-## Testando a conexão do "Appium" com o Emulador "Android Studio"
+## Testando a conexão do "Appium" com o emulador "Android Studio"
 
-- Testando a conexão do **"Appium"** com o Emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
+- Testando a conexão do **"Appium"** com o emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
 
 - No aplicativo **"Appium"** informar em **"Capability Builder"**
 
+- O **"arquivo "test.apk"** é somente para um teste / exemplo com o emulador **"Android Studio"** para realizar o teste de conexão com o **"Appium".**
+
+- A extensão **.apk" é exclusiva para os testes com o o emulador **"Android Studio".**
 
 ```
 
-| plataformName   | text  | Android           |
-| deviceName      | text  | Android Emulator  |
-| automationName  | text  | UIAutomator2      |
+| plataformName   | text     | Android                                   |
+| deviceName      | text     | Android Emulator                          |
+| automationName  | text     | UIAutomator2                              |
+| app             | filepath | C:\\Robot_Mobile\\appium-teste\\teste.apk |                
 
 ```
 
@@ -428,12 +432,14 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 {
   "plataformName": "Android",
   "deviceName": "Android Emulator",
-  "automationName": "UIAutomator2"
+  "automationName": "UIAutomator2",
+  "app": "C:\\Robot_Mobile\\appium-teste\\teste.apk"
 }
 
 ```
 
-<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/5dfc975b-f423-44c2-8712-723a5a38290a">
+
+<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/aec9b428-e978-46bb-ac46-d9bdb2c3c37f">
 
 
 
