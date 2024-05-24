@@ -490,7 +490,7 @@ npx appium
 - A partir da versão 2.0 do "Appium" os drivers são instalados manualmente [appium driver list --installed].
 
 
-## Instaldn o driver do UIAutomator2 do "Appium" [appium driver list --installed]
+## Instalando o driver do UIAutomator2 do "Appium" [appium driver list --installed]
 
 **1.** Acessar o link abaixo para o download do driver.
 
