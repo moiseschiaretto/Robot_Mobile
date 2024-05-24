@@ -433,7 +433,8 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 ```
 
-<img width="543" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/45f74a47-40f7-4430-85f0-1b68a413a21b">
+<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/5dfc975b-f423-44c2-8712-723a5a38290a">
+
 
 
 
