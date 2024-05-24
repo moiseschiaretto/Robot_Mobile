@@ -1,14 +1,14 @@
 ## Projeto 3 (três) - "Robot Mobile"
 
 - Autor Moisés Ademir Chiaretto
-  
+
 - Descrição das explicações de cada item da 'estrutura do projeto **"Robot Mobile"** desenvolvido' em Robot Framework e a ferramenta / o servidor Appium para Android e iOS, IDE VSCode.
 
-- Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Adroid e iOS.
+- Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Android e iOS.
 
-    - Exemplo 01: Executar um cenário de testes em Android
- 
-    - Exemplo 02: Executar um cenário de testes em iOS
+  - Exemplo 01: Executar um cenário de testes em Android
+
+  - Exemplo 02: Executar um cenário de testes em iOS
 
 
 ## Estrutura do Projeto
@@ -44,9 +44,9 @@ https://www.youtube.com/watch?v=vYekSMBCCiM
 
 **Validar se o Node.js foi instalado corretamente**
 
-2.2 Acessar a Pasta de seu Projeto no Terminal do VSCode
+2.1 Acessar a Pasta de seu Projeto no Terminal do VSCode
 
-2.3 Digitar os seguintes comandos no Terminal do VSCode, o retorno deverá ser a versão do Node.js e do npm.
+2.2 Digitar os seguintes comandos no Terminal do VSCode, o retorno deverá ser a versão do Node.js e do npm.
 
 ```
 node --version
@@ -61,9 +61,9 @@ npm --version
 
 **Habilitar as "features" adicionais do Node.js que vem por padrão desabilitada**
 
-2.4 Abrir o CMD, ou seja, o Prompt de Comando como "Administrador"
+2.3 Abrir o CMD, ou seja, o Prompt de Comando como "Administrador"
 
-2.5 Digitar seguinte o comando
+2.4 Digitar seguinte o comando
 
 ```
 
@@ -78,9 +78,9 @@ corepack enable
 
 **Retornar a IDE VSCode**
 
-2.6 Acessar a Pasta de seu Projeto no Terminal do VSCode
+2.5 Acessar a Pasta de seu Projeto no Terminal do VSCode
 
-2.7 Digitar o seguinte comandos no Terminal do VSCode
+2.6 Digitar o seguinte comandos no Terminal do VSCode
 
 ```
 
@@ -98,8 +98,6 @@ yarn --version
 ```
 
 Set-ExecutionPolicy RemoteSigned -Scope Process
-
-yarn --version
 
 ```
 
