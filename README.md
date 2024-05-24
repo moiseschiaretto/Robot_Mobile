@@ -580,8 +580,7 @@ npx appium
 
 
 
-## Instalar o Robot Framework no projeto "Robot_Mobile" no VSCode
-
+## Instalar o Robot Framework para o projeto "Robot_Mobile"
 
 **1.** Instalar o Python usando o arquivo executável de instalação
 
