@@ -485,7 +485,36 @@ npx appium
 
 **OBSERVAÇÃO**
 
-- Ocorrerá um **erro** já previsto ...
+- Ocorrerá um **erro** já previsto, a mensagem de erro informa que não encontrou o "driver do UIAutomator2".**
+
+- A partir da versão 2.0 do "Appium" os drivers são instalados manualmente [appium driver list --installed].
+
+
+## Instaldn o driver do UIAutomator2 do "Appium" [appium driver list --installed]
+
+**1.** Acessar o link abaixo para o download do driver.
+
+https://appium.io/docs/en/latest/quickstart/uiauto2-driver
+
+
+**2.** Clicar à esquerda em **"Install the UiAutomator2 Driver".**
+
+
+<img width="519" alt="11_Instalar_Driver_Appium_UIAutomator2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/6771e79a-339d-4cfe-bc80-1bfec85df6cd">
+
+
+
+**3.** No terminal do "VSCode" digitar os comandos abaixo.
+
+```
+
+npx appium driver install uiautomator2
+
+
+```
+
+
+<img width="457" alt="12_Instalar_Driver_Appium_UIAutomator2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/419ca545-9098-4bd6-93d5-bd4f2a81c740">
 
 
 
