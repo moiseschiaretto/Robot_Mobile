@@ -414,7 +414,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 - O **"arquivo "test.apk"** é somente para um teste / exemplo com o emulador **"Android Studio"** para realizar o teste de conexão com o **"Appium".**
 
-- A extensão **.apk" é exclusiva para os testes com o o emulador **"Android Studio".**
+- A extensão **.apk"** é exclusiva para os testes com o o emulador **"Android Studio".**
 
 ```
 
