@@ -446,6 +446,8 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 **1.** Acessar o emulador "Android Studio".
 
+![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b05afd43-55db-4942-a9da-79873ac55abc)
+
 **2.** Acessar o "Appium" com as confgurações do **"Capability Builder".**
 
 **3.** No terminal do "VSCode" digitar os comandos abaixo.
@@ -562,15 +564,23 @@ npx appium
 
 
 
+## Resultados do teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
+
+- Tela do servidor "Appium".
+
+
+<img width="680" alt="13_Resultado_Teste_Conexao_Appium_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/69a0be8a-e04f-40e7-a026-c27e0f6459a8">
+
+
+- Tela do emulador "Android Studio".
+
+
+<img width="168" alt="14_Resultado_Teste_Conexao_Appium_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/623086a3-720b-4f17-a988-2003d6f966fb">
 
 
 
 # EM CONSTRUÇÃO ...
-
-## Configurar o Appium Inspector ...
-
-## Testar a conexão do Appium Inspector com o Emulador Android Studio ...
 
 ## Instalar o Robot Framework ...
 
