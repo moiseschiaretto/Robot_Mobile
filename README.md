@@ -404,6 +404,11 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 ##EM CONSTRUÇÃO ...
 
+##Configurar o Appium Inspector
+
+##Testar a conexão do Appium Inspector com o Emulador Android Studio
+
+##Instalar o Robot Framework
 
 
 
