@@ -417,6 +417,8 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 - O **"arquivo "teste.apk"** é somente para um teste / exemplo com o emulador **"Android Studio"** para realizar o teste de conexão com o **"Appium".**
 
+- Este **"arquivo "teste.apk"** encontra-se no diretório / pasta **"appium-teste.zip".**
+
 - A extensão **.apk"** é exclusiva para os testes com o emulador **"Android Studio".**
 
 - **APK significa "Android Package Kit".** É o formato de arquivo usado pelo sistema operacional Android para distribuição e instalação de aplicativos.
