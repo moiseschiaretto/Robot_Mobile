@@ -416,6 +416,13 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 - A extensão **.apk"** é exclusiva para os testes com o emulador **"Android Studio".**
 
+**- APK significa "Android Package Kit". É o formato de arquivo usado pelo sistema operacional Android para distribuição e instalação de aplicativos. **
+
+- Quando você baixa um aplicativo da Google Play Store ou de outras fontes, muitas vezes está baixando um arquivo APK que o dispositivo Android pode instalar e executar.
+
+- As aplicações, ou "APKs", podem ser desenvolvidas no "Android Studio" utilizando as linguagens Java ou Kotlin.
+
+
 ```
 
 | platformName    | text     | Android                                   |
