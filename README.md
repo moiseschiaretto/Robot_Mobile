@@ -590,7 +590,8 @@ npx appium
 
 
 
-<img width="149" alt="07_Teste_Conexao_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/21a780ff-ee30-481a-a356-30bf45c20889">
+<img width="166" alt="07_Teste_Conexao_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9223527c-252a-44b6-92c3-d7260d6a66ff">
+
 
 
 
