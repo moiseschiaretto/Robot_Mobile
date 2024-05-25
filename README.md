@@ -160,7 +160,7 @@ https://developer.android.com/studio?hl=pt-br
 
 5.3 Clicar na Guia "Version"
 
-  **- Observar as versões do Appium, inclusive a versão 2.0.1**
+**- Observar as versões do Appium, inclusive a versão 2.0.1**
 
 
 
@@ -416,7 +416,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 - A extensão **.apk"** é exclusiva para os testes com o emulador **"Android Studio".**
 
-**- APK significa "Android Package Kit". É o formato de arquivo usado pelo sistema operacional Android para distribuição e instalação de aplicativos.**
+- **APK significa "Android Package Kit".** É o formato de arquivo usado pelo sistema operacional Android para distribuição e instalação de aplicativos.
 
 - Quando você baixa um aplicativo da Google Play Store ou de outras fontes, muitas vezes está baixando um arquivo APK que o dispositivo Android pode instalar e executar.
 
@@ -449,7 +449,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 <img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3f3e05cc-ed24-4759-a017-6ae0839de0ae">
 
 
-## Executando o teste de conexão do "Appium" com o emulador "Android Studio"
+## Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 **1.** Acessar o emulador "Android Studio".
 
@@ -494,12 +494,12 @@ npx appium
 
 **OBSERVAÇÃO**
 
-- Ocorrerá um **erro** já previsto, a mensagem de erro informa que não encontrou o "driver do UIAutomator2".**
+- Ocorrerá um **erro** já previsto, a mensagem de erro informa que não encontrou o **"driver do UIAutomator2".**
 
 - A partir da versão 2.0 do "Appium" os drivers são instalados manualmente [appium driver list --installed].
 
 
-## Instalando o driver do UIAutomator2 do "Appium" [appium driver list --installed]
+## Instalando o driver do "UIAutomator2" do "Appium" [appium driver list --installed]
 
 **1.** Acessar o link abaixo para o download do driver.
 
@@ -528,7 +528,9 @@ npx appium driver install uiautomator2
 
 
 
-# NOVAMENTE Executando o teste de conexão do "Appium" com o emulador "Android Studio"
+## NOVAMENTE Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
+
+- Após a instalação do **driver do UIAutomator2** realizar **novamente** a execução do teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 **1.** Acessar o emulador "Android Studio".
 
@@ -577,13 +579,16 @@ npx appium
 - Tela do servidor "Appium".
 
 
-<img width="680" alt="13_Resultado_Teste_Conexao_Appium_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/69a0be8a-e04f-40e7-a026-c27e0f6459a8">
+<img width="543" alt="06_Teste_Conexao_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/0252a4f0-2625-4b28-b78e-2a3a0a7e322b">
+
 
 
 - Tela do emulador "Android Studio".
 
 
-<img width="168" alt="14_Resultado_Teste_Conexao_Appium_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/623086a3-720b-4f17-a988-2003d6f966fb">
+
+<img width="149" alt="07_Teste_Conexao_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/21a780ff-ee30-481a-a356-30bf45c20889">
+
 
 
 
@@ -630,14 +635,7 @@ robot --version
 
 ```
 
-
 <img width="457" alt="04_Instalacao_Robot" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/a4f4cb1c-ed33-41b3-b69c-b80bddfe74e7">
-
-
-
-
-
-# EM CONSTRUÇÃO ...
 
 
 
