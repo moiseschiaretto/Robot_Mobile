@@ -64,7 +64,9 @@ robot -d ./logs ./tests/surf.robot
 ## Validar a execução dos testes na tela do Emulador Android Studio
 
 
-| <img width="167" alt="16_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/30f9184f-25cd-4f81-a1c8-2660bdaab3b8"> | <img width="124" alt="18_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/912d17b1-d73a-4599-9c21-a29fb695ccda"> |
+| <img width="167" alt="16_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/30f9184f-25cd-4f81-a1c8-2660bdaab3b8"> | <img width="124" alt="18_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/912d17b1-d73a-4599-9c21-a29fb695ccda"> | <img width="124" alt="19_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c1317ff3-9536-4055-878a-8dc7e11cbf16"> |  <img width="124" alt="20_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/952c491f-fe50-417c-9e05-fc52359a41cb">
+
+
 
 
 
