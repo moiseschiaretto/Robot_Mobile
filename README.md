@@ -69,7 +69,7 @@ robot -d ./logs ./tests/home.robot
 
 
 
-## IMPORTANTE
+## IMPORTANTE - Falha na importação da biblioteca 'AppiumLibrary'
 
 - Ao executar os testes do **Robot Framework Mobile" poderá ocorre o seguinte erro.
 
