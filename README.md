@@ -71,7 +71,7 @@ robot -d ./logs ./tests/home.robot
 
 ## IMPORTANTE - Falha na importação da biblioteca 'AppiumLibrary'
 
-- Ao executar os testes do **Robot Framework Mobile"** ***_poderá ocorre o seguinte erro._***
+- Ao executar os testes do **Robot Framework Mobile"** **_poderá ocorre o seguinte erro._**
 
 [ ERROR ] Error in file 'C:\Robot_Mobile\tests\home.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'appium.webdriver.common.touch_action'
 
