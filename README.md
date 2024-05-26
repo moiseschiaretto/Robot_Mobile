@@ -649,6 +649,7 @@ robot --version
 
 
 
+  
 **6.** Acessar o VSCode e instalar o Plugin do "Robot Framework Language Server"
 
 
