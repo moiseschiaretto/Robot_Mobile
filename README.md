@@ -42,7 +42,9 @@ npx appium
 
 ## Iniciar o Emulador Android Studio
 
-![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3453617b-e34f-4f52-9587-22f58a296691)
+
+<img width="124" alt="14_2_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8fe15016-9de4-4ab5-8dd5-a161f72c341a">
+
 
 
 
