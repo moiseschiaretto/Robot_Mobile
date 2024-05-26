@@ -2,6 +2,10 @@
 
 - Autor Moisés Ademir Chiaretto
 
+- **Configurações do Ambiente de Trabalho** e Teste de Conexão do Servidor Appium com o Emulador Android Studio, utilizando o Appium Doctor que realiza um diagnóstico para validar todas as instalações de pacotes (dependências) instaladas.
+
+- Robot Framework e a ferramenta / o servidor Appium para Android e iOS, Appium Inspector, IDE VSCode.
+
 - Descrição das explicações de cada item da 'estrutura do projeto **"Robot Mobile"** desenvolvido' em Robot Framework e a ferramenta / o servidor Appium para Android e iOS, IDE VSCode.
 
 - Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Android e iOS.
