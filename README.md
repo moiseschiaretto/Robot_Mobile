@@ -6,13 +6,13 @@
 
 - Robot Framework e a ferramenta / o servidor Appium para Android e iOS, Appium Inspector, IDE VSCode.
 
-- Descrição das explicações de cada item da 'estrutura do projeto **"Robot Mobile"** desenvolvido' em Robot Framework e a ferramenta / o servidor Appium para Android e iOS, IDE VSCode.
+- Descrição das explicações de cada item da **Estrutura do Projeto "Robot Mobile".**
 
 - Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Android e iOS.
 
-  - Exemplo 01: Executar um cenário de testes em Android
+  - Cenário 01: Executar testes em Android
 
-  - Exemplo 02: Executar um cenário de testes em iOS
+  - Cenário 02: Executar testes em iOS
 
 
 ## Estrutura do Projeto
