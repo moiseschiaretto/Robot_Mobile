@@ -17,12 +17,73 @@
 
 ## Estrutura do Projeto
 
-## EM CONSTRUÇÃO ...
+
+<img width="253" alt="12_Estrutura_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/09877902-df09-4a0a-b34a-e3e8aee45635">
+
 
 
 ## Descrição da Estrutura do Projeto
 
 ## EM CONSTRUÇÃO ...
+
+
+
+## Iniciar o Servidor Appium no Prompt de Comando como Administrador
+
+```
+
+npx appium
+
+```
+
+<img width="460" alt="13_Iniciar_Servidor_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/54783d7d-a375-4fc1-8213-1036eab68ab4">
+
+
+
+## Iniciar o Emulador Android Studio
+
+![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3453617b-e34f-4f52-9587-22f58a296691)
+
+
+
+## Executar o código do Robot Framework
+
+```
+
+robot -d ./logs ./tests/home.robot
+
+```
+
+
+<img width="492" alt="15_Execucao_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/dcc47cad-1c33-4ea3-9f8a-440e8c2847bd">
+
+
+
+## Validar a execução dos testes na tela do Emulador Android Studio
+
+
+<img width="167" alt="16_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/30f9184f-25cd-4f81-a1c8-2660bdaab3b8">
+
+
+
+
+## IMPORTANTE
+
+- Ao executar os testes do **Robot Framework Mobile" poderá ocorre o seguinte erro.
+
+[ ERROR ] Error in file 'C:\Robot_Mobile\tests\home.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'appium.webdriver.common.touch_action'
+
+**Falha na importação da biblioteca 'AppiumLibrary'.**
+
+Este é um bug no AppiumLibrary e em como ele lida com suas dependências. Ele extrai ligações python appium que possuem itens obsoletos que AppiumLibrary ainda espera que estejam presentes.
+
+**Solução executar o seguinte comando.**
+
+```
+
+pip install --force-reinstall "Appium-Python-Client<4.0.0"
+
+```
 
 
 
