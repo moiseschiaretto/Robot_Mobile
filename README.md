@@ -22,10 +22,6 @@
 
 
 
-## Descrição da Estrutura do Projeto
-
-
-
 ## Iniciar o Servidor Appium no Prompt de Comando como Administrador
 
 ```
