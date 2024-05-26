@@ -95,7 +95,7 @@ pip install --force-reinstall "Appium-Python-Client<4.0.0"
 
 **AttributeError: 'WebDriver' object has no attribute 'desired_capabilities'.**
 
-No Selenium 4.17 o 'desired_capabilities' foi removido então a solução é remover a versão 4.17 do Selenium e instalar a  versão 4.16.
+**A partir do Selenium 4.17 o 'desired_capabilities' foi removido** então a solução é remover o Selenium 4.17 ou versão superior e **instalar o Selemium 4.16**
 
 ```
 
