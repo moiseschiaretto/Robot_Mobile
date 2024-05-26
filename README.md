@@ -673,7 +673,7 @@ robot --version
 <img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/961dc9e5-386a-4a1a-9d96-e1c03475f1f4">
 
 
-**7.1** No terminal do "Prompt de Comando" digitar os comandos abaixo.
+**7.1** No terminal do "Prompt de Comando" digitar o comando abaixo.
 
 
 ```
