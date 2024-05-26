@@ -69,7 +69,9 @@ robot -d ./logs ./tests/home.robot
 
 
 
-## IMPORTANTE - Falha na importação da biblioteca 'AppiumLibrary'
+# IMPORTANTE FALHAS
+
+## 1. Falha na importação da biblioteca 'AppiumLibrary'
 
 - Ao executar os testes do **Robot Framework Mobile"** **_poderá ocorrer o seguinte erro._**
 
@@ -84,6 +86,27 @@ Este é um bug no AppiumLibrary e em como ele lida com suas dependências. Ele e
 ```
 
 pip install --force-reinstall "Appium-Python-Client<4.0.0"
+
+```
+
+## 2. Falha no "WebDriver" ao tentar acionar os elementos da tela
+
+**Erro que ocorre:**
+
+**AttributeError: 'WebDriver' object has no attribute 'desired_capabilities'.**
+
+No Selenium 4.17 o 'desired_capabilities' foi removido então a solução é remover a versão 4.17 do Selenium e instalar a  versão 4.16.
+
+```
+
+pip list
+
+pip unistall selenium
+
+
+pip install selenium==4.16
+
+pip list
 
 ```
 
