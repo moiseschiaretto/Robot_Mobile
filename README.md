@@ -649,17 +649,17 @@ robot --version
 
 
 
-**5.** Acessar o VSCode e instalar o Plugin do "Robot Framework Language Server"
+**6.** Acessar o VSCode e instalar o Plugin do "Robot Framework Language Server"
 
 
 ![08_VS_CODE](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/947cfc35-3a62-4e70-b85b-b79ee695a678)
 
 
-**5.1 No VSCode clicar à esquerda no botão "Extensions"**
+**6.1 No VSCode clicar à esquerda no botão "Extensions"**
 
-**5.2 Digitar o nome da "Extensions / Plugin" igual a "Robot Framework Language Server"**
+**6.2 Digitar o nome da "Extensions / Plugin" igual a "Robot Framework Language Server"**
 
-**5.3 Clicar no botão "Install".**
+**6.3 Clicar no botão "Install".**
 
 
 <img width="960" alt="09_Instalar_Plugin_Robot_Language_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/73628304-1f26-4b30-b65c-188bf8227f49">
