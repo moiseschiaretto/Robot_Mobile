@@ -2,7 +2,7 @@
 
 - Autor Moisés Ademir Chiaretto
 
-- **Configurações do Ambiente de Trabalho** e Teste de Conexão do Servidor Appium com o Emulador Android Studio, utilizando o Appium Doctor que realiza um diagnóstico para validar todas as instalações de pacotes (dependências) instaladas.
+- **Configurações do Ambiente de Trabalho** e Teste de Conexão do Servidor Appium com o Emulador Android Studio, utilizando o Appium Doctor que realiza um diagnóstico para validar todas as instalações de pacotes (dependências), informando as dependências não instaladas ou não configuradas.
 
 - Robot Framework e a ferramenta / o servidor Appium para Android e iOS, Appium Inspector, IDE VSCode.
 
@@ -267,7 +267,7 @@ npm i appium-doctor
 
 **12. Executando o "Appium-Doctor" para o diagnóstico para Android**
 
-**- O "Appium-Doctor" realiza o diagnóstico no computador, validar todas as instalações de pacotes (dependências) instaladas até este momento.**
+**- O "Appium-Doctor" realiza o diagnóstico no computador para validar todas as instalações de pacotes (dependências), informando as dependências não instaladas ou não configuradas.**
 
 ```
 
