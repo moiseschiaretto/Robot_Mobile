@@ -52,7 +52,7 @@ npx appium
 
 ```
 
-robot -d ./logs ./tests/home.robot
+robot -d ./logs ./tests/surf.robot
 
 ```
 
