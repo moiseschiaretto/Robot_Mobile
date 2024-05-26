@@ -111,6 +111,9 @@ pip list
 ```
 
 
+<img width="228" alt="17_Falha_WebDriver_Selenium_4 16" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/df6d2e7a-b2a2-40fd-afb4-c77391c8fe80">
+
+
 
 ## Configuração do Ambiente de Trabalho com Mobile
 
