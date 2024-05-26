@@ -101,7 +101,7 @@ pip install --force-reinstall "Appium-Python-Client<4.0.0"
 
 pip list
 
-pip unistall selenium
+pip uninstall selenium
 
 
 pip install selenium==4.16
