@@ -24,8 +24,6 @@
 
 ## Descrição da Estrutura do Projeto
 
-## EM CONSTRUÇÃO ...
-
 
 
 ## Iniciar o Servidor Appium no Prompt de Comando como Administrador
@@ -57,7 +55,8 @@ robot -d ./logs ./tests/surf.robot
 ```
 
 
-<img width="492" alt="15_Execucao_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/dcc47cad-1c33-4ea3-9f8a-440e8c2847bd">
+<img width="502" alt="15_Execucao_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/fc4ae9f7-97dd-4c85-a32e-164af4301108">
+
 
 
 
@@ -78,7 +77,7 @@ robot -d ./logs ./tests/surf.robot
 
 - Ao executar os testes do **Robot Framework Mobile"** **_poderá ocorrer o seguinte erro._**
 
-[ ERROR ] Error in file 'C:\Robot_Mobile\tests\home.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'appium.webdriver.common.touch_action'
+[ ERROR ] Error in file 'C:\Robot_Mobile\tests\surf.robot' on line 2: Importing library 'AppiumLibrary' failed: ModuleNotFoundError: No module named 'appium.webdriver.common.touch_action'
 
 **Falha na importação da biblioteca 'AppiumLibrary'.**
 
