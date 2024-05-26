@@ -69,7 +69,7 @@ robot -d ./logs ./tests/home.robot
 
 
 
-# IMPORTANTE FALHAS
+# IMPORTANTE - SOLUÇÕES DE FALHAS
 
 ## 1. Falha na importação da biblioteca 'AppiumLibrary'
 
