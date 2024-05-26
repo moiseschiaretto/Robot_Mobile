@@ -666,6 +666,23 @@ robot --version
 <img width="960" alt="09_Instalar_Plugin_Robot_Language_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/73628304-1f26-4b30-b65c-188bf8227f49">
 
 
+    
+**7. Instalar a biblioteca do "Appium" no Projeto do VSCode**
+
+**7.1** No terminal do "Prompt de Comando" digitar os comandos abaixo.
+
+
+```
+
+pip install --upgrade robotframework-appiumlibrary
+
+```
+
+
+<img width="606" alt="11_Instalar_robotframework-appiumlibrary" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/becf1fbf-e006-4b12-b318-a56244e1354d">
+
+
+
 
 ## Instalação e configuração do "Android Studio" passo a passo
 
