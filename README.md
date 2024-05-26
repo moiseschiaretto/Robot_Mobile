@@ -18,7 +18,8 @@
 ## Estrutura do Projeto
 
 
-<img width="253" alt="12_Estrutura_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/09877902-df09-4a0a-b34a-e3e8aee45635">
+<img width="206" alt="12_Estrutura_Projeto" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/dd5207d6-c2c5-4d98-af03-61d915f52ce0">
+
 
 
 
