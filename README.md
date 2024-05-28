@@ -56,20 +56,30 @@ robot -d ./logs ./tests/surf.robot
 
 
 
-## Validar a execução dos testes na tela do Emulador Android Studio
+## Validar as telas de navegação da execução dos testes na tela do Emulador Android Studio
 
 
-| <img width="167" alt="16_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/30f9184f-25cd-4f81-a1c8-2660bdaab3b8"> | <img width="124" alt="18_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/912d17b1-d73a-4599-9c21-a29fb695ccda"> | <img width="124" alt="19_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c1317ff3-9536-4055-878a-8dc7e11cbf16"> |  <img width="124" alt="20_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/952c491f-fe50-417c-9e05-fc52359a41cb"> | <img width="124" alt="21_Emulador_Android_Studio_Checkbox" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8016a3c0-77e3-48ea-b1e8-cef39b91df8f">  |  <img width="124" alt="22_Emulador_Android_Studio_Radio_Button" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b56830ae-3577-493c-b721-997959f8822c">  |  <img width="124" alt="23_Emulador_Android_Studio_Login" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/a37393d0-858f-4b74-9c38-7f153215c814">  |  <img width="124" alt="24_Emulador_Android_Studio_Cadastro" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/86f9eb5f-5a21-4011-9ab8-ecee420bbd4d">  |  <img width="124" alt="25_Emulador_Android_Studio_Lista" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/16925766-75dd-4bf2-8b17-93e2f0b70840">  |  <img width="124" alt="26_Emulador_Android_Studio_Busca" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e39f5222-237c-4af1-925f-7ed9449a1e0c">  | 
+| <img width="167" alt="16_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/30f9184f-25cd-4f81-a1c8-2660bdaab3b8"> | <img width="124" alt="18_Emulador_Android_Studio_App" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/912d17b1-d73a-4599-9c21-a29fb695ccda"> | <img width="124" alt="19_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c1317ff3-9536-4055-878a-8dc7e11cbf16"> |  <img width="124" alt="20_Emulador_Android_Studio_Clique_Simples" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/952c491f-fe50-417c-9e05-fc52359a41cb"> | <img width="124" alt="21_Emulador_Android_Studio_Checkbox" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8016a3c0-77e3-48ea-b1e8-cef39b91df8f">  |  <img width="124" alt="22_Emulador_Android_Studio_Radio_Button" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b56830ae-3577-493c-b721-997959f8822c">  |  <img width="124" alt="23_Emulador_Android_Studio_Login" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/a37393d0-858f-4b74-9c38-7f153215c814">  |  <img width="124" alt="24_Emulador_Android_Studio_Cadastro" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/86f9eb5f-5a21-4011-9ab8-ecee420bbd4d">  |  <img width="124" alt="25_Emulador_Android_Studio_Lista" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/16925766-75dd-4bf2-8b17-93e2f0b70840">  |  <img width="124" alt="26_Emulador_Android_Studio_Busca" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e39f5222-237c-4af1-925f-7ed9449a1e0c">  | <img width="124" alt="27_Emulador_Android_Studio_Dialogo" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9ce74f21-a29a-45dc-9b1d-bce679533e7b"> |
+
+## Appium Inspector - Inspecionar os elementos da tela no Mobile
 
 
+<img width="960" alt="01_Menu_Hamburger" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/2c585769-fe43-4eb7-86db-1d4fe7572530">
 
 
+<img width="960" alt="02_Menu_Hamburger" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/069279cb-8b20-43a2-abc5-12fb9b9a040b">
 
 
+<img width="960" alt="03_Menu_Hamburger" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4aab94e8-4f07-400f-8d46-5056001f6810">
 
 
+<img width="960" alt="04_Menu_Item" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/f34d26ad-df19-4ce2-8845-ca367f3efab0">
 
 
+<img width="960" alt="05_Menu_Item" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4b16c18e-7764-4b37-9ba0-e244854035ef">
+
+
+<img width="960" alt="06_Menu_Item" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/fe375ec4-9c46-4445-a77f-65b91967a7a8">
 
 
 
