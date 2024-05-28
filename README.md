@@ -86,9 +86,9 @@ robot -d ./logs ./tests/surf.robot
 
 
 
-# IMPORTANTE - SOLUÇÕES DE FALHAS
+## IMPORTANTE - SOLUÇÕES DE FALHAS
 
-## 1. Falha na importação da biblioteca 'AppiumLibrary'
+### 1. Falha na importação da biblioteca 'AppiumLibrary'
 
 Ao executar os testes do **Robot Framework Mobile"** **_poderá ocorrer o seguinte erro._**
 
@@ -106,7 +106,7 @@ pip install --force-reinstall "Appium-Python-Client<4.0.0"
 
 ```
 
-## 2. Falha no "WebDriver" ao tentar acionar os elementos da tela
+### 2. Falha no "WebDriver" ao tentar acionar os elementos da tela
 
 **Erro que ocorre:**
 
