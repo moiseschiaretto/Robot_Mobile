@@ -525,9 +525,10 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 ```
 
-
-<img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/541031b0-28ac-4ee1-a13b-dcd609f6dd5a">
-
+|Appium	        |
+|---------------|
+| <img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/541031b0-28ac-4ee1-a13b-dcd609f6dd5a"> |
+<br>
 
 
 ## Configurando um teste de conexão do "Appium" com o emulador "Android Studio"
@@ -659,9 +660,12 @@ npx appium driver install uiautomator2
 - Após a instalação do **driver do UIAutomator2** realizar **novamente** a execução do teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 **1.** Acessar o emulador "Android Studio".
+<br>
 
-
-![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b05afd43-55db-4942-a9da-79873ac55abc)
+|Appium	        |
+|---------------|
+| ![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b05afd43-55db-4942-a9da-79873ac55abc) |
+<br>
 
 
 **2.** Acessar o "Appium" com as confgurações do **"Capability Builder".**
@@ -889,13 +893,11 @@ pip install --upgrade robotframework-appiumlibrary
 
 
 **"Emulador Android Studio" inicializado e pronto para a utilização / navegação**
+<br>
 
-
-![13_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6f05dae-c2a3-4125-8645-932205e4665b)
-
-
-
-![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c84380b1-fb1b-4355-9007-5d3485432762)
-
-
+|Appium Studio    |
+|-----------------|
+| ![13_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6f05dae-c2a3-4125-8645-932205e4665b) |
+| ![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c84380b1-fb1b-4355-9007-5d3485432762) |
+<br>
 
