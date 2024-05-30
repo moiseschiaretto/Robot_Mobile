@@ -14,6 +14,8 @@
 
   - Cenário 02: Executar testes em iOS
 
+### Consultar no final desta documentação o tópico "Configuração do Ambiente de Trabalho com Mobile" e o subtópico "Pré-requisitos".
+
 <br>
 
 |IDE VSCode			|Node.js      	|Java JDK	    	|Android Studio  	    	|Appium      	  |Appium-Doctor  |JSON           |Robot          |Python         |
