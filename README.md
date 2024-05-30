@@ -8,7 +8,7 @@
 
 - Descrição das explicações de cada item da **Estrutura do Projeto "Robot Mobile".**
 
-- Objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Android e iOS.
+- O objetivo é realizar os testes Mobile com o Robot Framework e a ferramenta / o servidor Appium em Android e iOS.
 
   - Cenário 01: Executar testes em Android
 
