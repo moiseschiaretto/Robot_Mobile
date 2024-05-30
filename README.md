@@ -556,7 +556,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 | platformName                | text       | Android                                   |
 | deviceName                  | text       | Android Emulator                          |
 | automationName              | text       | UIAutomator2                              |
-| app                         | filepath   | C:\\Robot_Mobile\\appium-teste\\teste.apk |
+| app                         | filepath   | C:\\Robot_Mobile\\app\\teste.apk          |
 | udid                        | text       | emulator-5554                             |
 | autoGrantPermissions        | boolean    | true                                      | 
 <br>
@@ -569,7 +569,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
   "appium:platformName": "Android",
   "appium:deviceName": "Android Emulator",
   "appium:automationName": "UIAutomator2",
-  "appium:app": "C:\\Robot_Mobile\\appium-teste\\teste.apk",
+  "appium:app": "C:\\Robot_Mobile\\app\\teste.apk",
   "appium:udid": "emulator-5554",
   "appium:autoGrantPermissions": true
 }
@@ -584,7 +584,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 **1.** Acessar o emulador "Android Studio".
 
-![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b05afd43-55db-4942-a9da-79873ac55abc)
+<img width="124" alt="14_2_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8fe15016-9de4-4ab5-8dd5-a161f72c341a">
 
 **2.** Acessar o "Appium" com as confgurações do **"Capability Builder".**
 
@@ -900,7 +900,7 @@ pip install --upgrade robotframework-appiumlibrary
 
 |Emulador Android Studio    |
 |---------------------------|
-| ![13_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6f05dae-c2a3-4125-8645-932205e4665b) |
-| ![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c84380b1-fb1b-4355-9007-5d3485432762) |
+|  |
+|  |
 <br>
 
