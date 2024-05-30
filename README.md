@@ -527,7 +527,8 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 |Appium	        |
 |---------------|
-| <img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/541031b0-28ac-4ee1-a13b-dcd609f6dd5a"> |
+| <img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c66c4fc5-1349-46b1-b0e6-b9efe17233c8"> |
+
 <br>
 
 
@@ -664,7 +665,7 @@ npx appium driver install uiautomator2
 
 |Appium	        |
 |---------------|
-| ![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b05afd43-55db-4942-a9da-79873ac55abc) |
+| <img width="680" alt="06_Appium_Server" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/b887ec65-b1a8-4a97-9811-4b048a2116d4"> |
 <br>
 
 
@@ -713,12 +714,11 @@ npx appium
 
 
 
-- Tela do emulador "Android Studio".
-
-
+**Tela do emulador "Android Studio".**
+<br>
 
 <img width="166" alt="07_Teste_Conexao_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/9223527c-252a-44b6-92c3-d7260d6a66ff">
-
+<br>
 
 
 
@@ -895,8 +895,8 @@ pip install --upgrade robotframework-appiumlibrary
 **"Emulador Android Studio" inicializado e pronto para a utilização / navegação**
 <br>
 
-|Appium Studio    |
-|-----------------|
+|Emulador Android Studio    |
+|---------------------------|
 | ![13_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c6f05dae-c2a3-4125-8645-932205e4665b) |
 | ![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c84380b1-fb1b-4355-9007-5d3485432762) |
 <br>
