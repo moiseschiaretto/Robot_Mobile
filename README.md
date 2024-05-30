@@ -549,16 +549,16 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 - Quando você baixa um aplicativo da Google Play Store ou de outras fontes, muitas vezes está baixando um arquivo APK que o dispositivo Android pode instalar e executar.
 
 - As aplicações, ou "APKs", podem ser desenvolvidas no "Android Studio" utilizando as linguagens Java ou Kotlin.
+<br>
 
-
-```
-
+|Name             |Type      |Value                                      |
+|-----------------|----------|-------------------------------------------|
 | platformName    | text     | Android                                   |
 | deviceName      | text     | Android Emulator                          |
 | automationName  | text     | UIAutomator2                              |
 | app             | filepath | C:\\Robot_Mobile\\appium-teste\\teste.apk |                
 
-```
+<br>
 
 **JSON Represention**
 
