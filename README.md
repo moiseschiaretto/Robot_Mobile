@@ -551,13 +551,14 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 - As aplicações, ou "APKs", podem ser desenvolvidas no "Android Studio" utilizando as linguagens Java ou Kotlin.
 <br>
 
-|Name             |Type      |Value                                      |
-|-----------------|----------|-------------------------------------------|
-| platformName    | text     | Android                                   |
-| deviceName      | text     | Android Emulator                          |
-| automationName  | text     | UIAutomator2                              |
-| app             | filepath | C:\\Robot_Mobile\\appium-teste\\teste.apk |                
-
+| Name                        | Type       | Value                                     |
+|-----------------------------|------------|-------------------------------------------|
+| platformName                | text       | Android                                   |
+| deviceName                  | text       | Android Emulator                          |
+| automationName              | text       | UIAutomator2                              |
+| app                         | filepath   | C:\\Robot_Mobile\\appium-teste\\teste.apk |
+| udid                        | text       | emulator-5554                             |
+| autoGrantPermissions        | boolean    | true                                      | 
 <br>
 
 **JSON Represention**
@@ -565,10 +566,12 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 ```
 
 {
-  "platformName": "Android",
-  "deviceName": "Android Emulator",
-  "automationName": "UIAutomator2",
-  "app": "C:\\Robot_Mobile\\appium-teste\\teste.apk"
+  "appium:platformName": "Android",
+  "appium:deviceName": "Android Emulator",
+  "appium:automationName": "UIAutomator2",
+  "appium:app": "C:\\Robot_Mobile\\appium-teste\\teste.apk",
+  "appium:udid": "emulator-5554",
+  "appium:autoGrantPermissions": true
 }
 
 ```
