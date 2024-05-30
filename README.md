@@ -15,24 +15,13 @@
   - Cenário 02: Executar testes em iOS
 
 <br>
-<br>
 
 |IDE VSCode			|Node.js      	|Java JDK	    	|Android Studio  	    	|Appium      	  |Appium-Doctor  |JSON           |Robot          |Python         |
 |---------------|---------------|---------------|-----------------------|---------------|---------------|---------------|---------------|---------------|
 | ![01_VS_CODE](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/212da995-b06d-4fe3-9712-635e1c08a4d3) | <img width="93" alt="02_Node_JS" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/c49c8161-c1e7-4162-ae67-bcabc8fa52eb"> | <img width="175" alt="03_JDK" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8a3bd544-92ec-4608-bfcf-3635cee4a0f3"> | <img width="162" alt="04_Android_Studio_V2" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/6049179b-1163-4d60-a5e4-9165e58c8a93"> | <img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e16e530f-8e25-4246-abea-95fb2d0d3e80"> | <img width="168" alt="04_Android_Doctor" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/7dda22d0-2336-4560-986e-58468b20eb87"> | <img width="164" alt="04_JSON" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/2ae964a9-b119-4136-93fb-077a9eee7521"> | ![00_Logo_Robot_Frame_Work](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/d5622253-ae6e-48df-ad6c-343df721dfd7) | ![00_Python](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/1e9e2651-7f17-4218-b1c7-aeb1d7b4f0ec) |
 
-
-
-
-
-
-
-
-
-
-
 <br>
-<br>
+
 
 ## Estrutura do Projeto
 
