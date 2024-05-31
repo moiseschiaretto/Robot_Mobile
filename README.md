@@ -575,9 +575,12 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 }
 
 ```
+<br>
 
+<img width="960" alt="07_02_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ad0ed430-75c7-4882-aad8-5fdbebd237b3">
+<br>
+<br>
 
-<img width="680" alt="07_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/3f3e05cc-ed24-4759-a017-6ae0839de0ae">
 
 
 ## Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
