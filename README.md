@@ -903,6 +903,8 @@ pip install --upgrade robotframework-appiumlibrary
 
 |            |               |
 |------------|---------------|
-| <img width="124" alt="13_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/993e3118-c8d9-4d14-8e3e-56ebf7f5aa4f"> | <img width="124" alt="14_2_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/82eed973-d56c-4c21-abe7-154785dc3f87"> |
+| <img width="124" alt="13_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/993e3118-c8d9-4d14-8e3e-56ebf7f5aa4f"> | 
+![14_Emulador_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/028d4775-e276-4f7b-a226-1e51202a10b6) |
+
 <br>
 
