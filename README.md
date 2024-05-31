@@ -145,16 +145,69 @@ pip list
 
 ## Configuração do Ambiente de Trabalho com Mobile
 
+***
+
 ## Pré-requisitos
 
+***
+
 **1. Download e instalação da IDE VSCode**
+
+**2. Download e instalação do Node.js**
+
+**3. Instalar o JDK Development >> x64 MSI Installer**
+
+**4. Instalar o Android Studio**
+
+**5. Verificar as últimas versões do "Appium" antes de instalar**
+
+**6. Appium >> Explore the Documentation**
+
+**7. Instalar o Appium**
+
+**8. Após a instalação do "Appium" realizar algumas validações**
+
+**9. Executar o Appium**
+
+**10. Desligar o Servidor do Appium**
+
+**11. Instalar o pacote "Appium-Doctor"**
+
+**12. Executando o "Appium-Doctor" para o diagnóstico para Android**
+
+**13. As validações do diagnóstico do 'Doctor"**
+
+**14. Executando o "Appium-Doctor" para realizar um "NOVO Diagnóstico"**
+
+**15. Appium Inspector**
+
+**16. Configurando um teste de conexão do "Appium" com o emulador "Android Studio"**
+
+**17. Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"**
+
+**18. Erro previsto - driver do UIAutomator2**
+
+**19. NOVAMENTE Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"**
+
+**20. Resultados do teste de conexão do servidor "Appium" com o emulador "Android Studio"**
+
+**21. Instalar o Robot Framework para o projeto "Robot_Mobile"**
+
+**22. Instalação e configuração do "Android Studio" passo a passo**
+
+***
+
+<br>
+<br>
+
+### 1. Download e instalação da IDE VSCode
 
 https://code.visualstudio.com/download
 
 ![VS_CODE](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/ecb20f35-2b8d-485d-b393-e28b7dbc7539)
 
 
-**2. Download e instalação do Node.js**
+### 2. Download e instalação do Node.js
 
 https://nodejs.org/en
 
@@ -242,7 +295,7 @@ yarn --version
 
 
 
-**3. Instalar o JDK Development >> x64 MSI Installer**
+### 3. Instalar o JDK Development >> x64 MSI Installer
 
 https://www.oracle.com/br/java/technologies/downloads/
 
@@ -251,7 +304,7 @@ https://www.oracle.com/br/java/technologies/downloads/
 
 
 
-**4. Instalar o Android Studio**
+### 4. Instalar o Android Studio
 
 **- A instalação e configuração do "Android Studio" está no final desta documentação com as telas passo a passo.**
   
@@ -272,7 +325,7 @@ https://developer.android.com/studio?hl=pt-br
 
 
 
-**5. Verificar as últimas versões do "Appium" antes de instalar**
+### 5. Verificar as últimas versões do "Appium" antes de instalar
 
 
 <img width="174" alt="05_Appium" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/8fa2e77d-68bb-4156-b3b8-d89efe30b64b">
@@ -289,7 +342,7 @@ https://developer.android.com/studio?hl=pt-br
 
 
 
-**6. Appium >> Explore the Documentation**
+### 6. Appium >> Explore the Documentation
 
 - Utilizar para possíveis pesquisas do "Appium, campo **"Search"**
 
@@ -300,7 +353,7 @@ https://appium.io/docs/en/2.0
 
 
 
-**7. Instalar o Appium**
+### 7. Instalar o Appium
 
 
 https://appium.io/docs/en/2.0/quickstart/install
@@ -325,7 +378,7 @@ npm i appium
 ```
 
 
-**8. Após a instalação do "Appium" realizar algumas validações**
+### 8. Após a instalação do "Appium" realizar algumas validações
 
 8.1 Dentro da pasta do projeto "Robot_Mobile" é gerada a pasta "node_modules".
 
@@ -343,7 +396,7 @@ npm i appium
 
 
 
-**9. Executar o Appium**
+### 9. Executar o Appium
 
 - Digitar os seguintes comandos no Terminal do VSCode
 
@@ -354,7 +407,7 @@ npx appium
 ```
 
 
-**10. Desligar o Servidor do Appium**
+### 10. Desligar o Servidor do Appium
 
 - Acessar o Terminal do VSCode
 
@@ -371,7 +424,7 @@ Teclar "S" (Sim) para confirmar.
 
 
 
-**11. Instalar o pacote "Appium-Doctor"**
+### 11. Instalar o pacote "Appium-Doctor"
 
 - É um pacote em Node.js que realiza um diagnóstico no computador para validar se o seu Sistema Operacional está preparado para trabalhar com o "Appium".
 
@@ -382,7 +435,7 @@ npm i appium-doctor
 ```
 
 
-**12. Executando o "Appium-Doctor" para o diagnóstico para Android**
+### 12. Executando o "Appium-Doctor" para o diagnóstico para Android
 
 **- O "Appium-Doctor" realiza o diagnóstico no computador para validar todas as instalações de pacotes (dependências), informando as dependências não instaladas ou não configuradas.**
 
@@ -396,7 +449,7 @@ npx appium-doctor --android
 
 
 
-**13. As validações do diagnóstico do 'Doctor"**
+### 13. As validações do diagnóstico do 'Doctor"
 
 **- Não encontrou as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME".**
 
@@ -472,7 +525,7 @@ Valor da variável: C:\Users\moise\AppData\Local\Android\Sdk
 
 
 
-**14. Executando o "Appium-Doctor" para realizar um "NOVO Diagnóstico"**
+### 14. Executando o "Appium-Doctor" para realizar um "NOVO Diagnóstico"
 
 **- O "Appium-Doctor" realiza o diagnóstico no computador, validar todas as instalações de pacotes (dependências) instaladas até este momento.**
 
@@ -486,7 +539,7 @@ npx appium-doctor --android
 
 
 
-15. Appium Inspector
+### 15. Appium Inspector
 
 - Acessar o seguinte link no browser.
 
@@ -531,8 +584,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 <br>
 
-
-## Configurando um teste de conexão do "Appium" com o emulador "Android Studio"
+### 16. Configurando um teste de conexão do "Appium" com o emulador "Android Studio"
 
 - Configurando a conexão do **"Appium"** com o emulador **"Android Studio"**, criando um **"Capability Builder"**, ou seja, configurando uma execução de testes automatizados.
 
@@ -583,7 +635,7 @@ C:\Users\moise\AppData\Local\Programs\Appium Inspector
 
 
 
-## Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
+### 17. Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 **1.** Acessar o emulador "Android Studio".
 
@@ -626,7 +678,7 @@ npx appium
 <img width="680" alt="08_Appium_Server_Capability" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/e90465ce-c6ce-4f1d-ad0a-669f3c5ec6f3">
 
 
-**OBSERVAÇÃO**
+### 18. Erro previsto - driver do UIAutomator2
 
 - Ocorrerá um **erro** já previsto, a mensagem de erro informa que não encontrou o **"driver do UIAutomator2".**
 
@@ -662,7 +714,7 @@ npx appium driver install uiautomator2
 
 
 
-## NOVAMENTE Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
+### 19. NOVAMENTE Executando o teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 - Após a instalação do **driver do UIAutomator2** realizar **novamente** a execução do teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
@@ -710,7 +762,7 @@ npx appium
 
 
 
-## Resultados do teste de conexão do servidor "Appium" com o emulador "Android Studio"
+### 20. Resultados do teste de conexão do servidor "Appium" com o emulador "Android Studio"
 
 
 - Tela do servidor "Appium".
@@ -729,7 +781,7 @@ npx appium
 
 
 
-## Instalar o Robot Framework para o projeto "Robot_Mobile"
+### 21. Instalar o Robot Framework para o projeto "Robot_Mobile"
 
 **1.** Instalar o Python usando o arquivo executável de instalação
 
@@ -811,11 +863,14 @@ pip install --upgrade robotframework-appiumlibrary
 
 
 <img width="606" alt="11_Instalar_robotframework-appiumlibrary" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/becf1fbf-e006-4b12-b318-a56244e1354d">
+<br>
 
 
+***
 
 
-## Instalação e configuração do "Android Studio" passo a passo
+<br>
+## 22. Instalação e configuração do "Android Studio" passo a passo
 
 
 <img width="119" alt="04_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/673d631e-545b-40df-8792-1e4aae42d4f0">
