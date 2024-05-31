@@ -867,8 +867,8 @@ pip install --upgrade robotframework-appiumlibrary
 
 ***
 
-
 <br>
+
 ## 22. Instalação e configuração do "Android Studio" passo a passo
 
 
