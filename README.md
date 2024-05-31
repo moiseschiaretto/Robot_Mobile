@@ -895,17 +895,15 @@ pip install --upgrade robotframework-appiumlibrary
 
 
 ![12_Configurando__MS_Android_Studio](https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/4f121fa6-af0f-4a58-98af-effbdd19eb2d)
+<br>
 
 
 
 **"Emulador Android Studio" inicializado e pronto para a utilização / navegação**
 <br>
 
-|            |               |
-|------------|---------------|
-| <img width="124" alt="13_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/993e3118-c8d9-4d14-8e3e-56ebf7f5aa4f"> | 
-<img width="124" alt="14_2_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/05e03786-9fc2-4e64-bd04-3f1d712d18d9"> |
-
-
+| Android Iniciando   | Android Inicializado |
+|---------------------|----------------------|
+| <img width="124" alt="13_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/993e3118-c8d9-4d14-8e3e-56ebf7f5aa4f"> | <img width="124" alt="14_2_Emulador_Android_Studio" src="https://github.com/moiseschiaretto/Robot_Mobile/assets/84775466/05e03786-9fc2-4e64-bd04-3f1d712d18d9"> |
 <br>
 
