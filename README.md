@@ -198,7 +198,6 @@ pip list
 ***
 
 <br>
-<br>
 
 ### 1. Download e instalação da IDE VSCode
 
