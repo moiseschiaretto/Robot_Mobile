@@ -175,7 +175,9 @@ pip list
 
 **12. Executando o "Appium-Doctor" para o diagnóstico para Android**
 
-**13. As validações do diagnóstico do 'Doctor"**
+**13. As validações do diagnóstico do 'Appium Doctor"**
+
+  **- _Configurar as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME"_**
 
 **14. Executando o "Appium-Doctor" para realizar um "NOVO Diagnóstico"**
 
@@ -448,9 +450,11 @@ npx appium-doctor --android
 
 
 
-### 13. As validações do diagnóstico do 'Doctor"
+### 13. As validações do diagnóstico do 'Appium Doctor"
 
-**- Não encontrou as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME".**
+**- O Appium Doctor não encontrou as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME".**
+
+### _Configurar as "variáveis de ambiente" que são "JAVA_HOME" e "ANDROID_HOME"_
 
 13.1 Configurando o caminho do Java SDK (JAVA_HOME) no sistema operacional Windows.
 
